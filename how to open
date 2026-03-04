@@ -1,0 +1,2 @@
+cd ~/splitter
+python3 app.py
